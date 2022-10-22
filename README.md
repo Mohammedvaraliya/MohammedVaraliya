@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<a href="https://www.instagram.com/mohammed.varaliya.10/">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
   <img height="50" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG12.png"/>
 </a>
 <a href="https://linktr.ee/mohammedvaraliya">
