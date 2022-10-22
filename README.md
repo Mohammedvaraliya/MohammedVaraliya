@@ -1,12 +1,12 @@
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
+<h2 align="left">
   Let's Connect and have a Chat!💬
-</h1>
+</h2><br>
 
-<p align="center">
+<p align="left">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
   <img height="50" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG12.png"/>
 </a>
@@ -29,7 +29,7 @@
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2><br>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -53,7 +53,7 @@
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h2> 📈 &nbsp;My GitHub History!</h2><br>
 <a href="https://github.com/Mohammedvaraliya">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&theme=noctis_minimus&layout=compact" />
