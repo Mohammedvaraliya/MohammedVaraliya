@@ -59,6 +59,11 @@
 ![Snake animation](https://github.com/Mohammedvaraliya/MohammedVaraliya/blob/output/github-contribution-grid-snake.svg)
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MohammedVaraliya/count.svg" />
+</p>
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer"/>
 </p>
