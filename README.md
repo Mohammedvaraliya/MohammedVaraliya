@@ -52,8 +52,8 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2><br>
 <a href="https://github.com/Mohammedvaraliya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&theme=noctis_minimus&show_icons=true&card_width=500" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&theme=noctis_minimus&layout=compact&card_width=500" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&theme=noctis_minimus&layout=compact&card_width=400" />
 </a>
 
 ![Snake animation](https://github.com/Mohammedvaraliya/MohammedVaraliya/blob/output/github-contribution-grid-snake.svg)
