@@ -1,12 +1,12 @@
-<p align="left">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&text=Hello!&height=100&section=header"/>
-</p>
+</div>
 
 <h2 align="left">
   Let's Connect and have a Chat!💬
 </h2><br>
 
-<p align="center">
+<div align="center">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
   <img height="50" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG12.png"/>
 </a>
@@ -22,13 +22,13 @@
 <a href="https://www.instagram.com/mohammed.varaliya.10/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-</p>
+</div>
   
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2><br>
 
-<p align="center">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn-icons-png.flaticon.com/512/152/152760.png" alt="java" width="45" height="45"/> 
@@ -46,25 +46,27 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="Notion" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="45" height="45"/>
-</p>
+</div>
 
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2><br>
+<div  align="center">
 <a href="https://github.com/Mohammedvaraliya">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&theme=noctis_minimus&layout=compact&card_width=350" />
 </a>
+</div>
 
 ![Snake animation](https://github.com/Mohammedvaraliya/MohammedVaraliya/blob/output/github-contribution-grid-snake.svg)
 
 
-<p align="center"> 
+<div align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MohammedVaraliya/count.svg" />
-</p>
+</div>
 
-<p align="left">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer"/>
-</p>
+</div>
 
