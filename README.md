@@ -6,7 +6,7 @@
   Let's Connect and have a Chat!💬
 </h2><br>
 
-<p align="left">
+<p align="center">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
   <img height="50" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG12.png"/>
 </a>
@@ -28,7 +28,7 @@
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2><br>
 
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn-icons-png.flaticon.com/512/152/152760.png" alt="java" width="45" height="45"/> 
