@@ -1,72 +1,146 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&text=Hello!&height=100&section=header"/>
-</div>
+# 👋 Hi, I’m **Mohammed Varaliya** (@MohammedVaraliya)
 
-<h2 align="left">
-  Let's Connect and have a Chat!💬
-</h2><br>
+I'm a passionate **Full Stack Developer** 💻 and an **MCA student** 🎓 at KJ Somaiya Institute of Management, Mumbai. As an analytical problem solver 🧠, I bring a unique blend of tenacity 💪, creativity 🎨, and rigorous attention to detail 🔍. With a passion for coding 💡, I continually refine my expertise, crafting innovative solutions that challenge convention and drive impactful change! 🚀
 
-<div align="center">
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-  <img height="50" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG12.png"/>
-</a>
-<a href="https://linktr.ee/mohammedvaraliya">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/mohammed-varaliya-800632231//">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://twitter.com/Mohammed_8097">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/mohammed.varaliya.10/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</div>
-  
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2><br>
+---
+
+## 🌟 About Me
+
+- 🔭 **Interests** Full-stack development, Artificial Intelligence, Data Structures & Algorithms, and building scalable web application.
+- 🌱 **Currently Learning**: Deepening my understanding of AI and exploring advanced data structures and algorithms to enhance problem-solving skils.
+- 🤝 **Looking to Collaborate**: Open to collaborating on projects involving full-stack development, AI integration, and innovative tech solutins.
+- 🎯 **Goal**: To develop innovative and efficient tech solutions that address real-world challenges, while continuously honing my skills to stay at the forefront of technological advancemnts.
+
+---
+
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn-icons-png.flaticon.com/512/152/152760.png" alt="java" width="45" height="45"/> 
-<img src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg" alt="django" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="45" height="45" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css5" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="45" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="github" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="Notion" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-<img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="45" height="45"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2><br>
-<div  align="center">
-<a href="https://github.com/Mohammedvaraliya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&theme=noctis_minimus&layout=compact&card_width=350" />
-</a>
-</div>
+## 🛠 Tech Stack & Tools
 
-![Snake animation](https://github.com/Mohammedvaraliya/MohammedVaraliya/blob/output/github-contribution-grid-snake.svg)
+### **Languages & Frameworks**
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" style="border-radius:80%" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kbSGIVukG6lL7JtAa9wiDA.png" width=48 alt="Java Maven"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
+</p>
 
+### **Databases & Cloud**
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/?size=48&id=38561&format=png&color=000000" alt="Postgresql"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://appwrite.io/assets/logomark/logo.png" width=48 alt="Appwrite"/>
+</p>
 
-<div align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MohammedVaraliya/count.svg" />
-</div>
+### **Tools & Platforms**
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" style="border-radius:20%" width=48 alt="Shadcn"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/?size=48&id=OPUdQmdeIEMR&format=png&color=000000" alt="Notion"/>
+  <img src="https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma"/>
+  <img src="https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva"/>
+</p>
+
+---
+
+## 🎯 Projects Highlights
+
+- **AI-Amplify-Hackathon**: Developed solutions for various problem statements during the hackathon.
+- **Data-Structures-and-Algorithms**: A collection of implementations in Python covering various data structures and algorithms.
+- **GoogSoft-ReactApp**: A web application mimicking Google Search functionalities built with ReactJS.
+- **AutomaPy**: A package implementing concepts from automata theory, including DFA, NDFA, and Turing machines.
+
+---
+
+## 📚 Research & Publications
+
+I am actively engaged in research at the intersection of **Artificial Intelligence** and **Higher Education**, focusing on enhancing educational systems through advanced AI technologies.
+
+### 🔬 Research Paper (Under Review)
+
+- **Title** *Revolutionizing Higher Education Institute Query System by Linking Custom Knowledge Base with Large Language Model*
+  
+  **Status**: Under review for publicatin
+  
+  **Description**: This research explores the integration of custom knowledge bases with large language models to develop an intelligent query system tailored for higher education institutions. The aim is to improve information retrieval and user interaction within academic environment.
+
+### 📖 Research Journal
+
+- **Title**: *Optimizing Automated Conversational Large Language Models for Higher Educational Institutios* 
+  
+  **Journal**: International Journal of Computer Information Systems and Industrial Management Applications (IJCISM)
+  
+  **Link**: [Read Paper](https://cspub-ijcisim.org/index.php/ijcisim/article/view/729)
+  
+  **Published**: 224
+
+  **Summary**: This journal article discusses the optimization of large language models to enhance conversational AI systems within higher educational institutions, focusing on improving accuracy and user engagemet.
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:mohammedvaraliya2661392@gmail.com">
+    <img src="https://img.icons8.com/?size=48&id=63490&format=png&color=000000" style="border-radius:30%" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-varaliya-800632231/">
+    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Mohammed_8097">
+    <img src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter"/>
+  </a>
+  <a href="https://linktr.ee/mohammedvaraliya">
+    <img src="https://img.icons8.com/?size=48&id=84648&format=png&color=000000" style="border-radius:30%" alt="Linktree"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer"/>
+  <img src="https://github.com/MohammedVaraliya/MohammedVaraliya/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </div>
 
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MohammedVaraliya/count.svg" alt="Profile Views"/>
+</div>
+
+---
+
+### 😄 Pronouns: He/Him  
+
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting! Let's innovate together. 🚀</h3>
+</div>
+
+---
