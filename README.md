@@ -16,9 +16,9 @@ I'm a passionate **Full Stack Developer** 💻 and an **MCA student** 🎓 at KJ
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats" width=50%/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width=50%/>
 </div>
 
 ---
@@ -83,7 +83,7 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
   
   **Status**: Under review for publicatin
   
-  **Description**: This research explores the integration of custom knowledge bases with large language models to develop an intelligent query system tailored for higher education institutions. The aim is to improve information retrieval and user interaction within academic environment.
+  **Description**: This research explores the integration of custom knowledge bases with large language models to develop an intelligent query system tailored for higher education institutions. The aim is to improve information retrieval and user interaction within academic environment.
 
 ### 📖 Research Journal
 
