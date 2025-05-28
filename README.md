@@ -83,7 +83,7 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
   
   **Status**: Under review for publicatin
   
-  **Description**: This research explores the integration of custom knowledge bases with large language models to develop an intelligent query system tailored for higher education institutions. The aim is to improve information retrieval and user interaction within academic environment.
+  **Description**: This research explores the integration of custom knowledge bases with large language models to develop an intelligent query system tailored for higher education institutions. The aim is to improve information retrieval and user interaction within academic environment.
 
 ### 📖 Research Journal
 
