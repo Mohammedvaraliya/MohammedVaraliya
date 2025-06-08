@@ -64,15 +64,6 @@ I'm a passionate **Full Stack Developer** 💻 and an **MCA student** 🎓 at KJ
 
 ---
 
-## 🎯 Projects Highlights
-
-- **AI-Amplify-Hackathon**: Developed solutions for various problem statements during the hackathon.
-- **Data-Structures-and-Algorithms**: A collection of implementations in Python covering various data structures and algorithms.
-- **GoogSoft-ReactApp**: A web application mimicking Google Search functionalities built with ReactJS.
-- **AutomaPy**: A package implementing concepts from automata theory, including DFA, NDFA, and Turing machines.
-
----
-
 ## 📚 Research & Publications
 
 I am actively engaged in research at the intersection of **Artificial Intelligence** and **Higher Education**, focusing on enhancing educational systems through advanced AI technologies.
