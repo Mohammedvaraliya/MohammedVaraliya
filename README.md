@@ -93,17 +93,17 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:mohammedvaraliya2661392@gmail.com">
-    <img src="https://img.icons8.com/?size=48&id=LPcVDft9Isqt&format=png&color=000000" style="border-radius:30%" alt="Email"/>
+  <a href="mailto:mohammedvaraliya2661392@gmail.com" style="outline: none; border: none;">
+    <img src="https://img.icons8.com/?size=48&id=LPcVDft9Isqt&format=png" style="border-radius: 30%; border: none;" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-varaliya-800632231/">
-    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mohammed-varaliya-800632231/" style="outline: none; border: none;">
+    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" style="border: none;" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Mohammed_8097">
-    <img src="https://img.icons8.com/?size=48&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter"/>
+  <a href="https://twitter.com/Mohammed_8097" style="outline: none; border: none;">
+    <img src="https://img.icons8.com/?size=48&id=bG29Ckcdp6YP&format=png" style="border: none;" alt="Twitter"/>
   </a>
-  <a href="https://linktr.ee/mohammedvaraliya">
-    <img src="https://img.icons8.com/?size=48&id=44834&format=png&color=000000" style="border-radius:30%" alt="Linktree"/>
+  <a href="https://linktr.ee/mohammedvaraliya" style="outline: none; border: none;">
+    <img src="https://img.icons8.com/?size=48&id=44834&format=png" style="border-radius: 30%; border: none;" alt="Linktree"/>
   </a>
 </p>
 
