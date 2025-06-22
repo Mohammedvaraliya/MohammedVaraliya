@@ -94,16 +94,16 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
 
 <p align="center">
   <a href="mailto:mohammedvaraliya2661392@gmail.com">
-    <img src="https://img.icons8.com/?size=48&id=63490&format=png&color=000000" style="border-radius:30%" alt="Email"/>
+    <img src="https://img.icons8.com/?size=48&id=LPcVDft9Isqt&format=png&color=000000" style="border-radius:30%" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammed-varaliya-800632231/">
     <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/Mohammed_8097">
-    <img src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter"/>
+    <img src="https://img.icons8.com/?size=48&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter"/>
   </a>
   <a href="https://linktr.ee/mohammedvaraliya">
-    <img src="https://img.icons8.com/?size=48&id=84648&format=png&color=000000" style="border-radius:30%" alt="Linktree"/>
+    <img src="https://img.icons8.com/?size=48&id=44834&format=png&color=000000" style="border-radius:30%" alt="Linktree"/>
   </a>
 </p>
 
