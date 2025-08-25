@@ -66,7 +66,17 @@ I'm a passionate **Full Stack Developer** 💻 and an **MCA student** 🎓 at KJ
 
 ## 📚 Research & Publications
 
-I am actively engaged in research at the intersection of **Artificial Intelligence** and **Higher Education**, focusing on enhancing educational systems through advanced AI technologies.
+While I am not currently active in academic research, I have authored and contributed to two published research works focused on the integration of **Large Language Models (LLMs)** in **Higher Education** systems. These projects involved collaboration with a PhD guide, deployment of LLM-powered chatbots, and detailed evaluation of AI performance within academic environments.
+
+### 👨‍🔬 Research Highlights
+
+* Developed and deployed two LLM-powered chatbots tailored for higher education institutions.
+* Conducted 50+ literature reviews and collaborated with a PhD guide on research design and writing.
+* Evaluated AI models across 300+ queries, achieving:
+
+  * **Average response time**: 5 seconds
+  
+  * **Relevancy score**: 0.93 (OpenAI GPT-3.5), 0.96 (Google Gemini 1.0)
 
 ### 🔬 Research Paper (Under Review)
 
@@ -76,7 +86,7 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
 
   **Link**: [Read Paper](https://link.springer.com/chapter/10.1007/978-3-031-78925-0_9)
   
-  **Description**: This research explores the integration of custom knowledge bases with large language models to develop an intelligent query system tailored for higher education institutions. The aim is to improve information retrieval and user interaction within academic environment.
+  **Description**: Explores a novel method of enhancing academic query systems by integrating LLMs with custom knowledge bases, using real-world data from Mumbai-based institutions.
 
 ### 📖 Research Journal
 
@@ -85,10 +95,8 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
   **Journal**: International Journal of Computer Information Systems and Industrial Management Applications (IJCISM 2024)
   
   **Link**: [Read Paper](https://cspub-ijcisim.org/index.php/ijcisim/article/view/729)
-  
-  **Published**: 224
 
-  **Summary**: This journal article discusses the optimization of large language models to enhance conversational AI systems within higher educational institutions, focusing on improving accuracy and user engagemet.
+  **Description**: Investigates the performance of conversational AI systems built with LLMs for academic environments, comparing outputs from OpenAI GPT-3.5 and Google Gemini 1.0.
 
 ---
 
