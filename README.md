@@ -72,7 +72,9 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
 
 - **Title** *Revolutionizing Higher Education Institute Query System by Linking Custom Knowledge Base with Large Language Model*
   
-  **Status**: Under review for publicatin
+  **Conference**: Hybrid Intelligent Systems (HIS 2023)
+
+  **Link**: [Read Paper](https://link.springer.com/chapter/10.1007/978-3-031-78925-0_9)
   
   **Description**: This research explores the integration of custom knowledge bases with large language models to develop an intelligent query system tailored for higher education institutions. The aim is to improve information retrieval and user interaction within academic environment.
 
@@ -80,7 +82,7 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
 
 - **Title**: *Optimizing Automated Conversational Large Language Models for Higher Educational Institutios* 
   
-  **Journal**: International Journal of Computer Information Systems and Industrial Management Applications (IJCISM)
+  **Journal**: International Journal of Computer Information Systems and Industrial Management Applications (IJCISM 2024)
   
   **Link**: [Read Paper](https://cspub-ijcisim.org/index.php/ijcisim/article/view/729)
   
@@ -120,7 +122,7 @@ I am actively engaged in research at the intersection of **Artificial Intelligen
 ## 👀 Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MohammedVaraliya/count.svg" alt="Profile Views"/>
+  <img src="https://profile-counter.deno.dev/MohammedVaraliya/count.svg" alt="Profile Views"/>
 </div>
 
 ---
