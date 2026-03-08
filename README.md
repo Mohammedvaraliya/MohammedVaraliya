@@ -1,6 +1,6 @@
-# 👋 Hi, I’m **Mohammed Varaliya** (@MohammedVaraliya)
+# 👋 Hi, I’m **Mohammed Varaliya** (@Mohammedvaraliya)
 
-I'm a passionate **Full Stack Developer** 💻 and an **MCA student** 🎓 at KJ Somaiya Institute of Management, Mumbai. As an analytical problem solver 🧠, I bring a unique blend of tenacity 💪, creativity 🎨, and rigorous attention to detail 🔍. With a passion for coding 💡, I continually refine my expertise, crafting innovative solutions that challenge convention and drive impactful change! 🚀
+I'm a passionate Full Stack Developer 💻 and an MCA graduate 🎓 from KJ Somaiya Institute of Management, Mumbai. As an analytical problem solver 🧠, I combine creativity 🎨, persistence 💪, and a strong attention to detail 🔍 to build efficient and scalable solutions. Driven by a deep passion for coding 💡, I continuously sharpen my skills and strive to develop innovative technologies that challenge conventions and create real-world impact.
 
 ---
 
@@ -16,9 +16,9 @@ I'm a passionate **Full Stack Developer** 💻 and an **MCA student** 🎓 at KJ
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedVaraliya&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats" width=50%/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohammedVaraliya&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats" width=50%/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedVaraliya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width=50%/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedVaraliya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width=50%/>
 </div>
 
 ---
