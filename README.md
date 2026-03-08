@@ -15,11 +15,9 @@ I'm a passionate Full Stack Developer 💻 and an MCA graduate 🎓 from KJ Soma
 
 ## 📊 GitHub Stats & Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohammedVaraliya&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats" width=50%/>
-  <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedVaraliya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width=50%/>
-</div>
+| GitHub Stats | Top Languages |
+|---------------|---------------|
+| ![](https://github-readme-stats-fast.vercel.app/api?username=MohammedVaraliya&show_icons=true&theme=radical&hide_border=true) | ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedVaraliya&layout=compact&theme=radical&hide_border=true) |
 
 ---
 
