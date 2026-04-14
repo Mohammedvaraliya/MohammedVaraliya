@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Mohammed Varaliya** (@Mohammedvaraliya)
-
+.
 I'm a passionate Full Stack Developer 💻 and an MCA graduate 🎓 from KJ Somaiya Institute of Management, Mumbai. As an analytical problem solver 🧠, I combine creativity 🎨, persistence 💪, and a strong attention to detail 🔍 to build efficient and scalable solutions. Driven by a deep passion for coding 💡, I continuously sharpen my skills and strive to develop innovative technologies that challenge conventions and create real-world impact.
 
 ---
